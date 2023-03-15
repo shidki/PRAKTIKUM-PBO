@@ -1,3 +1,9 @@
+/**
+*File = MSegitiga.java
+*Penulis = Muhamad Ridwan Ash'shidqi
+*Nim = 24060121130075
+*deskripsi = main dari segitiga.java
+*/
 package org.main;
 import org.bangundatar.*; //import dari folder bangundatar dan .* adalah import dari semua isi di folder bangundatar
 public class MSegitiga{
