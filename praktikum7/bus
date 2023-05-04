@@ -1,0 +1,11 @@
+/*
+	Nama  File	: Bus.java
+	Pembuat		: Muhamad Ridwan Ash'shidqi
+	NIM			: 24060121130075
+	Deskripsi	: Subclass dari Vehicle yang digunakan untuk menghitung biaya sewa bis
+*/
+package com.oracle.training;
+
+public class Bus extends Vehicle {
+
+}
