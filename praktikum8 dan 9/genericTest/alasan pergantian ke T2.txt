@@ -1,0 +1,1 @@
+mengganti T menjadi T2 dapat memberi nama parameter generic deskriptif sehingga saat menggunakan parameter generik lebih dari 1 di kelas tersebut dapat dibedakan
